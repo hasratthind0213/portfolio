@@ -130,22 +130,22 @@ export default function Home() {
     },
     {
       id: 2,
-      name: "Certification 2",
-      image: "/i2.png",
+      name: "Adobe HACKATHON",
+      image: "/i7.png",
     },
     {
       id: 3,
-      name: "Certification 3",
+      name: "spring Infoysis",
       image: "/i3.png",
     },
     {
       id: 4,
-      name: "Certification 4",
+      name: "Fundamental of ML",
       image: "/i4.png",
     },
     {
       id: 5,
-      name: "Certification 5",
+      name: "Tech veda",
       image: "/i5.png",
     },
     
@@ -343,7 +343,7 @@ export default function Home() {
 
             <div className="bg-[#08111f] border border-blue-500/10 rounded-2xl p-5">
               <h3 className="text-3xl font-bold text-white">
-                5+
+                2+
               </h3>
 
               <p className="text-neutral-400">
@@ -376,7 +376,7 @@ export default function Home() {
 
             <div className="bg-[#08111f] border border-blue-500/10 rounded-2xl p-5">
               <h3 className="text-3xl font-bold text-white">
-                6+
+                4+
               </h3>
 
               <p className="text-neutral-400">
